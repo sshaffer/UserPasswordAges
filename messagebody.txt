@@ -1,0 +1,6 @@
+<p><b>{1}</b>,</p>
+<p>Your password expires in <b>{4}</b> days.</p>
+
+<p>Please change it soon to avoid connectivity issues.</p>
+
+<p>If you have any questions or concerns, please contact <b>IT Support</b> at <b><a href="mailto:support@sample.com">support@sample.com</a></b>.</p>
